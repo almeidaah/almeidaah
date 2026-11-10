@@ -1,23 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="304" viewBox="0 0 900 304" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-labelledby="title desc">
   <title id="title">Fernando Almeida — Software Engineer</title>
-  <desc id="desc">ASCII Almeida banner. Senior Software Engineer at Elsevier. Java at the core. Cloud in the toolkit. Curiosity always on.</desc>
+  <desc id="desc">Fernando Almeida. Senior Software Engineer at Elsevier. Java at the core. Cloud in the toolkit. Curiosity always on.</desc>
   <style>
     text { font-family: "Courier New", Courier, monospace; fill: #67eea1; }
-    .cursor { animation: blink 1.2s steps(1) infinite; }
-    @keyframes blink { 50% { opacity: 0; } }
-    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
   </style>
-  <rect x="1" y="1" width="898" height="302" rx="8" fill="#07180f" stroke="#244733"/>
-  <text x="30" y="35" font-size="12" letter-spacing="2">FERNANDO ALMEIDA / SOFTWARE ENGINEER</text>
-  <g font-size="17" xml:space="preserve">
-    <text x="30" y="77">    _    _     __  __ _____ ___ ____    _</text>
-    <text x="30" y="98">   / \  | |   |  \/  | ____|_ _|  _ \  / \</text>
-    <text x="30" y="119">  / _ \ | |   | |\/| |  _|  | || | | |/ _ \</text>
-    <text x="30" y="140"> / ___ \| |___| |  | | |___ | || |_| / ___ \</text>
-    <text x="30" y="161">/_/   \_\_____|_|  |_|_____|___|____/_/   \_\</text>
-  </g>
-  <text x="30" y="205" font-size="15">$ whoami</text>
-  <text x="30" y="229" font-size="15">Senior Software Engineer @ Elsevier</text>
-  <rect class="cursor" x="346" y="216" width="9" height="16" fill="#67eea1"/>
-  <text x="30" y="276" font-size="13">Java at the core. Cloud in the toolkit. Curiosity always on.</text>
+  <rect x="1" y="1" width="898" height="188" rx="8" fill="#07180f" stroke="#244733"/>
+  <text x="30" y="38" font-size="14">$ whoami</text>
+  <text x="30" y="83" font-size="32" font-weight="bold">Fernando Almeida</text>
+  <text x="30" y="118" font-size="18">Senior Software Engineer @ Elsevier</text>
+  <text x="30" y="158" font-size="14">Java at the core. Cloud in the toolkit. Curiosity always on.</text>
 </svg>

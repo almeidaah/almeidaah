@@ -19,14 +19,6 @@ Hi, I'm **Fernando**. I build backend systems with Java and Spring, with experie
 2011 - 2013  Softplan       Software Developer
 ```
 
-## $ ls featured-projects/
-
-| Repository | What you'll find |
-| :--- | :--- |
-| [my-own-cv-api](https://github.com/almeidaah/my-own-cv-api) | A CV served as a public API, built with Spring Boot, MongoDB, and Swagger UI. |
-| [world-visited-app-a6](https://github.com/almeidaah/world-visited-app-a6) | A travel-inspired application built with Angular and TypeScript. |
-| [openproject_scrum_monitoring_plugin](https://github.com/almeidaah/openproject_scrum_monitoring_plugin) | Scrum monitoring plugin for OpenProject. |
-
 ## $ git stats
 
 <p align="center">
