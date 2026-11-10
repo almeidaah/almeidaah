@@ -6,8 +6,6 @@
   </picture>
 </p>
 
-<p align="center"><sub>Light / dark: follows your <a href="https://github.com/settings/appearance">GitHub appearance setting</a>.</sub></p>
-
 Hi, I'm **Fernando**. I build backend systems with Java and Spring, with experience across scientific software, healthcare, and enterprise applications.
 
 **Java** · **Spring Boot** · **AWS** · **Docker** · **MongoDB** · **Jenkins**
