@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-simple.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg">
-    <img src="./assets/terminal-light.svg" alt="Fernando Almeida — Senior Software Engineer at Elsevier. Java at the core. Cloud in the toolkit. Curiosity always on." width="900">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-ai-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-ai-light.svg">
+    <img src="./assets/terminal-ai-light.svg" alt="Fernando Almeida — Senior Software Engineer at Elsevier. Java at the core. Cloud in the toolkit. Embracing the AI world." width="900">
   </picture>
 </p>
 

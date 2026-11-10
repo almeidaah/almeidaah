@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-labelledby="title desc">
   <title id="title">Fernando Almeida — Software Engineer</title>
-  <desc id="desc">Fernando Almeida. Senior Software Engineer at Elsevier. Java at the core. Cloud in the toolkit. Curiosity always on.</desc>
+  <desc id="desc">Fernando Almeida. Senior Software Engineer at Elsevier. Java at the core. Cloud in the toolkit. Embracing the AI world.</desc>
   <style>
     text { font-family: "Courier New", Courier, monospace; fill: #67eea1; }
   </style>
@@ -8,5 +8,5 @@
   <text x="30" y="38" font-size="14">$ whoami</text>
   <text x="30" y="83" font-size="32" font-weight="bold">Fernando Almeida</text>
   <text x="30" y="118" font-size="18">Senior Software Engineer @ Elsevier</text>
-  <text x="30" y="158" font-size="14">Java at the core. Cloud in the toolkit. Curiosity always on.</text>
+  <text x="30" y="158" font-size="14">Java at the core. Cloud in the toolkit. Embracing the AI world.</text>
 </svg>
