@@ -81,6 +81,16 @@ def main():
 """
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(svg, encoding="utf-8")
+    light_svg = svg
+    for dark, light in (
+        ("#07180f", "#f0faf3"),
+        ("#244733", "#b8d9c2"),
+        ("#67eea1", "#116329"),
+        ("#b9cbbf", "#354f3e"),
+        ("#91ab9a", "#496852"),
+    ):
+        light_svg = light_svg.replace(dark, light)
+    OUTPUT.with_name("github-stats-light.svg").write_text(light_svg, encoding="utf-8")
     print(f"Updated public statistics: {repositories_count} repos, {stars} stars, {followers} followers.")
 
 

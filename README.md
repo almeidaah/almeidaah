@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="./assets/terminal-simple.svg" alt="Fernando Almeida — Senior Software Engineer at Elsevier. Java at the core. Cloud in the toolkit. Curiosity always on." width="900">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-simple.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg">
+    <img src="./assets/terminal-light.svg" alt="Fernando Almeida — Senior Software Engineer at Elsevier. Java at the core. Cloud in the toolkit. Curiosity always on." width="900">
+  </picture>
 </p>
+
+<p align="center"><sub>Light / dark: follows your <a href="https://github.com/settings/appearance">GitHub appearance setting</a>.</sub></p>
 
 Hi, I'm **Fernando**. I build backend systems with Java and Spring, with experience across scientific software, healthcare, and enterprise applications.
 
@@ -23,7 +29,11 @@ Hi, I'm **Fernando**. I build backend systems with Java and Spring, with experie
 
 <p align="center">
   <a href="https://github.com/almeidaah">
-    <img src="https://github-stats-xi-six.vercel.app/api/stats?user=almeidaah&amp;theme=dark" alt="GitHub activity statistics for almeidaah, provided by dvigo/github-stats. Aggregate counts only; no repository names." width="600">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-xi-six.vercel.app/api/stats?user=almeidaah&amp;theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-xi-six.vercel.app/api/stats?user=almeidaah&amp;theme=light">
+      <img src="https://github-stats-xi-six.vercel.app/api/stats?user=almeidaah&amp;theme=light" alt="GitHub activity statistics for almeidaah, provided by dvigo/github-stats. Aggregate counts only; no repository names." width="600">
+    </picture>
   </a>
 </p>
 
@@ -32,7 +42,11 @@ Hi, I'm **Fernando**. I build backend systems with Java and Spring, with experie
 ### Public account snapshot
 
 <p>
-  <img src="./assets/github-stats.svg" alt="Public GitHub statistics: repositories, stars on owned non-fork public repositories, and followers. Updated daily by GitHub Actions." width="900">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg">
+    <img src="./assets/github-stats-light.svg" alt="Public GitHub statistics: repositories, stars on owned non-fork public repositories, and followers. Updated daily by GitHub Actions." width="900">
+  </picture>
 </p>
 
 *Account snapshot refreshed daily and on manual workflow runs, not in real time. Repository count includes public forks; stars count only owned, non-fork public repositories. This snapshot does not measure employer-owned or private contributions. Neither stats image lists repository names.*
