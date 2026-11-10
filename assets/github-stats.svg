@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="204" viewBox="0 0 900 204" role="img" aria-labelledby="title desc">
+  <title id="title">Public GitHub statistics for almeidaah</title>
+  <desc id="desc">71 public repositories, 9 stars on owned non-fork public repositories, 15 followers. Updated 2026-11-10 08:59 UTC.</desc>
+  <style>text { font-family: "Courier New", Courier, monospace; }</style>
+  <rect x="1" y="1" width="898" height="202" rx="8" fill="#07180f" stroke="#244733"/>
+  <text x="30" y="34" fill="#67eea1" font-size="12" letter-spacing="2">GITHUB / PUBLIC SNAPSHOT</text>
+  <path d="M302 58V143 M600 58V143" stroke="#244733"/>
+  <g fill="#67eea1" font-size="40" font-weight="bold">
+    <text x="30" y="104">71</text>
+    <text x="332" y="104">9</text>
+    <text x="630" y="104">15</text>
+  </g>
+  <g fill="#b9cbbf" font-size="12">
+    <text x="30" y="133">PUBLIC REPOSITORIES</text>
+    <text x="332" y="133">STARS / OWN NON-FORK REPOS</text>
+    <text x="630" y="133">FOLLOWERS</text>
+  </g>
+  <text x="30" y="179" fill="#91ab9a" font-size="11">Updated 2026-11-10 08:59 UTC / refreshed daily via GitHub Actions</text>
+</svg>
