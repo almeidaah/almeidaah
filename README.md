@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal.svg?v=2" alt="Fernando Almeida — Senior Software Engineer at Elsevier. Java at the core. Cloud in the toolkit. Curiosity always on." width="900">
+  <img src="./assets/terminal-simple.svg" alt="Fernando Almeida — Senior Software Engineer at Elsevier. Java at the core. Cloud in the toolkit. Curiosity always on." width="900">
 </p>
 
 Hi, I'm **Fernando**. I build backend systems with Java and Spring, with experience across scientific software, healthcare, and enterprise applications.
